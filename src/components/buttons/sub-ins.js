@@ -4,7 +4,7 @@ module.exports = {
   },
   async execute(interaction, client) {
     await interaction.reply({
-      content: `https://www.instagram.com/nthpudding/`,
+      content: `Your social Link or anything you want`,
     });
   },
 };
