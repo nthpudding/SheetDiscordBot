@@ -19,7 +19,7 @@ module.exports = {
 
     try {
       const response = await axios.post(
-        "https://sheetdb.io/api/v1/jsyzmpgotsu6j",
+        "your Google sheet API link",
         {
           data: [
             {
