@@ -13,7 +13,7 @@ module.exports = {
       .setThumbnail(client.user.displayAvatarURL())
       .setTimestamp(Date.now())
       .setAuthor({
-        url: `https://discord.com/users/290410963616792578`,
+        url: `insert your link`,
         iconURL: interaction.user.displayAvatarURL(),
         name: interaction.user.tag,
       })
@@ -21,7 +21,7 @@ module.exports = {
         iconURL: client.user.displayAvatarURL(),
         text: client.user.tag,
       })
-      .setURL(`https://discord.gg/SpqjAm7D9B`)
+      .setURL(`insert your link 2`)
 /*
       .addFields([
         {
